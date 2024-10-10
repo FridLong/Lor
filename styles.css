@@ -46,13 +46,13 @@ h1 {
     transition: top 0.5s ease;
 }
 
-.box_body {
+.box-body {
     position: absolute;
     width: 100%;
     height: 100%;
     top: 150px;
 }
-.box_body: after {
+.box-body: after {
     display: none;
     margin: 0;
 }
