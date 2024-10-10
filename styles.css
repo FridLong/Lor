@@ -169,7 +169,7 @@ h1 {
 }
 
 /* Media Queries cho thiết bị di động */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     h1 {
         font-size: 24px;
     }
