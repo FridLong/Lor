@@ -52,6 +52,10 @@ h1 {
     height: 100%;
     top: 150px;
 }
+.box-body: after {
+    display: none;
+    margin: 0;
+}
 
 /* Hiệu ứng mở nắp */
 .open .lid {
